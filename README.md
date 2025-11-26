@@ -1,6 +1,3 @@
-# Intrusion-Detection-System-with-Snort-Kali-Linux-
-Snort v3 IDS on Kali Linux detecting ICMP ping sweeps and Nmap TCP/XMAS scans in a VMware lab
-
 # Snort IDS on Kali Linux for Reconnaissance Detection
 
 This project sets up Snort v3 on Kali Linux as an Intrusion Detection System (IDS) to detect early-stage reconnaissance such as ICMP ping sweeps, Nmap TCP SYN scans, and XMAS scans inside a VMware virtual lab. A Windows 11 attacker machine generates traffic, and Snort on Kali logs and classifies the alerts.
